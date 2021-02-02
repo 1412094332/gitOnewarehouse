@@ -1,0 +1,7 @@
+F:\南宁实训\学习\C#\ClassAndInstance\ClassAndInstance\bin\Debug\ClassAndInstance.exe.config
+F:\南宁实训\学习\C#\ClassAndInstance\ClassAndInstance\bin\Debug\ClassAndInstance.exe
+F:\南宁实训\学习\C#\ClassAndInstance\ClassAndInstance\bin\Debug\ClassAndInstance.pdb
+F:\南宁实训\学习\C#\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.csprojAssemblyReference.cache
+F:\南宁实训\学习\C#\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.csproj.CoreCompileInputs.cache
+F:\南宁实训\学习\C#\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.exe
+F:\南宁实训\学习\C#\ClassAndInstance\ClassAndInstance\obj\Debug\ClassAndInstance.pdb
